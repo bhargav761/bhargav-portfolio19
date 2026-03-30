@@ -6,7 +6,7 @@ export default function Home() {
       <section className="flex flex-col items-center mt-16 text-center">
 
         <img 
-          src="/profile.jpg" 
+          src="/profile.jpg.jpeg" 
           alt="Bhargava R"
           className="w-32 h-32 rounded-full border-4 border-gray-700 shadow-lg"
         />
@@ -40,7 +40,7 @@ export default function Home() {
               <li>📈 Improved issue detection by 40%</li>
               <li>🚀 Deployed using Docker, Kubernetes & CI/CD</li>
             </ul>
-            <img src="/certificates/architecture.png" className="mt-4 rounded-lg" />
+            <img src="/certificates/architecture.png.png" className="mt-4 rounded-lg" />
           </div>
 
           {/* DEVOPS AUTO */}
@@ -52,7 +52,7 @@ export default function Home() {
               <li>🔄 CI/CD using Jenkins & GitHub Actions</li>
               <li>📊 ELK + Prometheus + Grafana monitoring</li>
             </ul>
-            <img src="/certificates/architecture.png" className="mt-4 rounded-lg" />
+            <img src="/certificates/architecture.png.png" className="mt-4 rounded-lg" />
           </div>
 
           {/* SECURITY */}
@@ -64,7 +64,7 @@ export default function Home() {
               <li>📡 Built IoT real-time monitoring system</li>
               <li>🚨 Logging & alerting integration</li>
             </ul>
-            <img src="/certificates/architecture.png" className="mt-4 rounded-lg" />
+            <img src="/certificates/architecture.png.png" className="mt-4 rounded-lg" />
           </div>
 
           {/* CLOUD */}
@@ -76,7 +76,7 @@ export default function Home() {
               <li>🔄 CI/CD pipelines automation</li>
               <li>☁️ AWS EC2, IAM & CloudWatch setup</li>
             </ul>
-            <img src="/certificates/architecture.png" className="mt-4 rounded-lg" />
+            <img src="/certificates/architecture.png.png" className="mt-4 rounded-lg" />
           </div>
 
         </div>
@@ -125,13 +125,13 @@ export default function Home() {
 
         <div className="grid md:grid-cols-3 gap-6 mt-6">
 
-          <img src="/certificates/hepro.png" className="rounded-lg shadow-lg" />
-          <img src="/certificates/internz.png" className="rounded-lg shadow-lg" />
+          <img src="/certificates/hepro.png.jpg" className="rounded-lg shadow-lg" />
+          <img src="/certificates/internz.png.jpg" className="rounded-lg shadow-lg" />
           <img src="/certificates/corizo.png" className="rounded-lg shadow-lg" />
 
-          <img src="/certificates/digital.png" className="rounded-lg shadow-lg" />
-          <img src="/certificates/edunet.png" className="rounded-lg shadow-lg" />
-          <img src="/certificates/vtu.png" className="rounded-lg shadow-lg" />
+          <img src="/certificates/digital.png.jpg" className="rounded-lg shadow-lg" />
+          <img src="/certificates/edunet.png.jpg" className="rounded-lg shadow-lg" />
+          <img src="/certificates/vtu.png.jpg" className="rounded-lg shadow-lg" />
 
           <img src="/certificates/cbnl.png" className="rounded-lg shadow-lg md:col-span-3" />
 
